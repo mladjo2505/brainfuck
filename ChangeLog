@@ -1,0 +1,10 @@
+21. February 2013.
+	Initial version:
+	 - Reading and interpreting of bf code
+	 - Output of clean bf code
+	 - Output of ANSI C code for read bf code
+	 - Toggle interpreting
+	 - Output usage
+25. February 2013.
+	 - Cleaned up code
+	 - Added Makefile, examples, etc
