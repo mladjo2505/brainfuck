@@ -1,9 +1,9 @@
-This is a simple enough implementation of a brainf**k interpreter written
-in ANSI C. I made this purely to see how brainf**k works and to have an
+This is a simple enough implementation of a `brainf**k` interpreter written
+in ANSI C. I made this purely to see how `brainf**k` works and to have an
 interpreter to do it with. In my experience it is good enough to tinker
-around with brainf**k.
+around with `brainf**k`.
 
-For more info about brainf**k go [here](http://en.wikipedia.org/wiki/Brainfuck).
+For more info about `brainf**k` go [here](http://en.wikipedia.org/wiki/Brainfuck).
 
 Compile the project with:
 `make`
