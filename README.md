@@ -6,18 +6,22 @@ around with `brainf**k`.
 For more info about `brainf**k` go [here](http://en.wikipedia.org/wiki/Brainfuck).
 
 Compile the project with:
+
 `make`
 
 It can be used to interpret bf code and to generate an ANSI C implementation
 of the given bf code.
 
 Interpret bf code(also works without -i):
+
 `brainfuck -i file_with_bfcode.bf`
 
 Clean up bf code(without interpreting it):
+
 `brainfuck -n -w file_with_bfcode.bf`
 
 "Compile" bf code:
+
 `brainfuck -n -c file_with_bfcode.bf > c_code.c && gcc -o program_name c_code.c`
 
 The examples are from Wikipedia and the game of life example is from [here](http://www.df.lth.se/~lft/brainfuck/).
